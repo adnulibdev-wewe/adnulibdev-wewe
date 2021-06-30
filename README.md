@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnulibdev-wewe
 - 👀 I’m interested in discovering things
-- 🌱 I’m currently learning programming languages C#, Java, javascript
+- 🌱 I’m currently learning programming languages C#, Java, javascript, ASP.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ellorin@gbox.adnu.edu.ph
 <!---
